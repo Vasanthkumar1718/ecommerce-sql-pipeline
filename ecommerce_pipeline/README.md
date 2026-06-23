@@ -24,15 +24,19 @@ Tables used:
 ## Pipeline Flow
 
 customers
+
    ↓
    
 orders
+
    ↓
    
 products
+
    ↓
    
 sales_data View
+
    ↓
    
 Business Reports
