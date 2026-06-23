@@ -21,13 +21,13 @@ orders
 
 customers
       ↓
-orders
+   orders
       ↓
-products
+  products
       ↓
-sales_data
+  sales_data
       ↓
-business_reports
+ business_reports
 
 ## Reports Generated
 
