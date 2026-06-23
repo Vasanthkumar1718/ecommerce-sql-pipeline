@@ -24,13 +24,13 @@ Tables used:
 ## Pipeline Flow
 
 customers
-↓
+   ↓
 orders
-↓
+   ↓
 products
-↓
+   ↓
 sales_data View
-↓
+   ↓
 Business Reports
 
 ## Reports Generated
@@ -104,6 +104,29 @@ README.md
 * Laptop was the highest revenue generating product.
 * Vikram was the top customer.
 * Revenue increased significantly during May and June.
+
+## Sample Outputs
+
+### Customer Revenue
+
+![Customer Revenue](Screenshots/customer_revenue.png)
+
+### City Revenue
+
+![City Revenue](Screenshots/city_revenue.png)
+
+### Product Revenue
+
+![Product Revenue](Screenshots/product_revenue.png)
+
+### Customer Ranking
+
+![Customer Ranking](Screenshots/customer_ranking.png)
+
+### Monthly Revenue
+
+![Monthly Revenue](Screenshots/monthly_revenue.png)
+
 
 ## Author
 
