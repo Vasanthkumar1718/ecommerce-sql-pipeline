@@ -25,12 +25,16 @@ Tables used:
 
 customers
    ↓
+   
 orders
    ↓
+   
 products
    ↓
+   
 sales_data View
    ↓
+   
 Business Reports
 
 ## Reports Generated
