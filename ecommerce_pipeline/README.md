@@ -26,19 +26,19 @@ Tables used:
 customers
 
     ↓
-
+   
 orders
 
-    ↓
-
+   ↓
+   
 products
 
-    ↓
-
+   ↓
+   
 sales_data View
 
-    ↓
-
+   ↓
+   
 Business Reports
 
 ## Reports Generated
@@ -138,4 +138,4 @@ README.md
 ## Author
 
 Vasanthkumar H S
-Aspiring Data Analyst | SQL | Python | Power BI
+Aspiring Data Analyst | SQL | Python | Power BI| Excel
