@@ -24,13 +24,21 @@ Tables used:
 ## Pipeline Flow
 
 customers
-   ↓
+
+    ↓
+
 orders
-   ↓
+
+    ↓
+
 products
-   ↓
+
+    ↓
+
 sales_data View
-   ↓
+
+    ↓
+
 Business Reports
 
 ## Reports Generated
@@ -125,8 +133,7 @@ README.md
 
 ### Monthly Revenue
 
-![Monthly Revenue](Screenshots/monthly_revenue.png)
-
+![Monthly Revenue](Screenshots/Monthly_revenue.png)
 
 ## Author
 
